@@ -24,6 +24,7 @@ public final class InventoryDbSchema {
             public static final String DESCRIPTION ="description";
             public static final String PRICE ="price";
             public static final String QUANTITY = "quantity";
+            //Modificacion dE pRUEBA
 
         }
     }
